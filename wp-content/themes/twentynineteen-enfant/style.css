@@ -19,6 +19,19 @@ body {
     display: none;
   } 
 .rayures {
-    background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+    background: repeating-linear-gradient(45deg, #5a8fc0, #32719b 10px, #174a74 10px, #0f3464 20px);
     color: white;
-  }   
+  } 
+.entry-header h1{
+    color:rgb(21, 120, 167);
+}
+.p{
+    font-style: italic;
+    color: rgb(45, 123, 187);
+}
+.paragraphe{
+    color: rgb(24, 89, 143);
+}
+.citation{
+    color: rgb(250, 175, 76);
+}
