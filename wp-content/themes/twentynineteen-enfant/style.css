@@ -35,3 +35,12 @@ body {
 .citation{
     color: rgb(250, 175, 76);
 }
+.site-header{
+    background-color: rgb(136, 193, 240);
+}
+.site-footer{
+    background-color: rgb(160, 198, 229);
+}
+.comment-content p{
+    color:rgb(24, 89, 143);
+}
