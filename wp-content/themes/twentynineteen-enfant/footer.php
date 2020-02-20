@@ -25,8 +25,9 @@
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint">
 				<?php
 				/* translators: %s: WordPress. */
-				printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'WordPress' );
+				//printf( __( 'Proudly powered by %s.', 'twentynineteen' ), 'WordPress' );
 				?>
+				<p> http://localhost/tommy-ex6/</p>
 			</a>
 			<?php
 			if ( function_exists( 'the_privacy_policy_link' ) ) {
